@@ -1,0 +1,3 @@
+Julia implementation of a simple CRN that simulates a McCullogh-Pitts neuron from Hjelmfelt et al., 1991
+
+Undertaken to practice the ODE simulation capabilities in Julia. 
